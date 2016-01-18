@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <LastSearch>
+    <ID>0</ID>
+    <Name>Search : 0</Name>
+    <Path>E:\IMPLEMENTACAO\PRODUTO_NAO_ENCONTRADO</Path>
+    <ExpressionToFind>ARQ_GRD</ExpressionToFind>
+    <ReplaceWith>ARQ_GRD</ReplaceWith>
+  </LastSearch>
+  <LastSearch>
+    <ID>1</ID>
+    <Name>Search : 1</Name>
+    <Path>E:\MISCELANIOUS</Path>
+    <ExpressionToFind>ARQ_GRD</ExpressionToFind>
+    <ReplaceWith>ARQ_GRD</ReplaceWith>
+  </LastSearch>
+  <LastSearch>
+    <ID>2</ID>
+    <Name>Search : 2</Name>
+    <Path>E:\MISCELANIOUS</Path>
+    <ExpressionToFind>ARQ_GRD</ExpressionToFind>
+    <ReplaceWith>ARQ_GRD</ReplaceWith>
+  </LastSearch>
+  <LastSearch>
+    <ID>3</ID>
+    <Name>Search : 3</Name>
+    <Path>E:\IMPLEMENTACAO\PRODUTO_NAO_ENCONTRADO</Path>
+    <ExpressionToFind>ARQ_GRD</ExpressionToFind>
+    <ReplaceWith>ARQ_GRD</ReplaceWith>
+  </LastSearch>
+</NewDataSet>
